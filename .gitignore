@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
+ESC-50/
+dataset/
+_mic_capture.wav
